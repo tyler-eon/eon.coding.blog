@@ -1,7 +1,4 @@
 [Home](/)
-[Sample Blog Post](/sample-blog-post)
+[Using coding.blog](/using-coding-blog)
 
 <br><br>
-
-To add links to your other posts,
-simply modify contents of `posts/_toc.md`
